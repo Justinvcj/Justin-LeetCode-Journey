@@ -1,19 +1,20 @@
 class Solution {
     public boolean isAnagram(String s, String t) {
-    if(s.length()!=t.length()){
+    if(s.length() != t.length()){
         return false;
     }
-    char [] arr=s.toCharArray();
-    char [] ary=t.toCharArray();
+    int [] freq=new int[26];
 
-    Arrays.sort(arr);
-    Arrays.sort(ary);
-    int count=0;
-    for(int i=0;i<arr.length;i++){
-        if(arr[i]==ary[i]){
-            count++;
+    for(int i=0;i<s.length();i++){
+       freq[s.charAt(i)-'a']++;
+       freq[t.charAt(i)-'a']--;
+    } 
+
+    for(int count:freq){
+        if(count!=0){
+            return false;
         }
     }
-    return count==s.length();    
+    return true;   
     }
 }
