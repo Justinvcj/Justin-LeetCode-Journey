@@ -43,6 +43,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0219-contains-duplicate-ii](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0290-word-pattern) |
 ## Sliding Window
@@ -52,10 +53,15 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0290-word-pattern](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0290-word-pattern) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0119-pascals-triangle-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
