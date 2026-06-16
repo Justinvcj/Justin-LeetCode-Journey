@@ -8,7 +8,12 @@ class Solution {
     for(int i=0;i<nums2.length;i++){
         list.add(nums2[i]);
     } 
-    int[] arr = list.stream().mapToInt(Integer::intValue).toArray();
+    int[] arr = new int[list.size()];
+    int index = 0;
+
+    for (Integer num : list) {
+    arr[index++] = num;
+}
     Arrays.sort(arr);
     int n=arr.length;
     double result=0;
