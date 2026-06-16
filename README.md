@@ -41,12 +41,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0118-pascals-triangle](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0119-pascals-triangle-ii) |
 | [0219-contains-duplicate-ii](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0219-contains-duplicate-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0219-contains-duplicate-ii](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0290-word-pattern) |
+| [0349-intersection-of-two-arrays](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0349-intersection-of-two-arrays) |
 ## Sliding Window
 |  |
 | ------- |
@@ -69,8 +71,17 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0004-median-of-two-sorted-arrays) |
+| [0349-intersection-of-two-arrays](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0004-median-of-two-sorted-arrays) |
+## Two Pointers
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0349-intersection-of-two-arrays) |
+## Sorting
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
