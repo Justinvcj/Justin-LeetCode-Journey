@@ -37,6 +37,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0004-median-of-two-sorted-arrays) |
 | [0118-pascals-triangle](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0119-pascals-triangle-ii) |
 | [0219-contains-duplicate-ii](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0219-contains-duplicate-ii) |
@@ -64,4 +65,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
