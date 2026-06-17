@@ -47,6 +47,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0349-intersection-of-two-arrays](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0523-continuous-subarray-sum](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0560-subarray-sum-equals-k) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Hash Table
 |  |
 | ------- |
@@ -68,6 +69,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0058-length-of-last-word](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0058-length-of-last-word) |
 | [0290-word-pattern](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0290-word-pattern) |
 | [0409-longest-palindrome](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0409-longest-palindrome) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Dynamic Programming
 |  |
 | ------- |
