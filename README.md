@@ -74,6 +74,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0058-length-of-last-word](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0058-length-of-last-word) |
 | [0290-word-pattern](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0290-word-pattern) |
 | [0409-longest-palindrome](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0409-longest-palindrome) |
+| [0443-string-compression](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0443-string-compression) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/1796-second-largest-digit-in-a-string) |
 ## Dynamic Programming
@@ -101,6 +102,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | ------- |
 | [0031-next-permutation](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0031-next-permutation) |
 | [0349-intersection-of-two-arrays](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0349-intersection-of-two-arrays) |
+| [0443-string-compression](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0443-string-compression) |
 ## Sorting
 |  |
 | ------- |
