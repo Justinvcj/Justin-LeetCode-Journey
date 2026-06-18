@@ -59,6 +59,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0409-longest-palindrome](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0409-longest-palindrome) |
 | [0523-continuous-subarray-sum](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0560-subarray-sum-equals-k) |
+| [1796-second-largest-digit-in-a-string](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/1796-second-largest-digit-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -71,6 +72,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0290-word-pattern](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0290-word-pattern) |
 | [0409-longest-palindrome](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0409-longest-palindrome) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1796-second-largest-digit-in-a-string](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/1796-second-largest-digit-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
