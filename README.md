@@ -52,6 +52,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0219-contains-duplicate-ii](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0290-word-pattern) |
@@ -63,10 +64,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0219-contains-duplicate-ii) |
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0058-length-of-last-word](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0058-length-of-last-word) |
 | [0290-word-pattern](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0290-word-pattern) |
