@@ -74,6 +74,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0014-longest-common-prefix](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0058-length-of-last-word](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0058-length-of-last-word) |
+| [0151-reverse-words-in-a-string](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0151-reverse-words-in-a-string) |
 | [0290-word-pattern](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0392-is-subsequence) |
@@ -106,6 +107,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0031-next-permutation) |
+| [0151-reverse-words-in-a-string](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0392-is-subsequence) |
