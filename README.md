@@ -50,6 +50,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0523-continuous-subarray-sum](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0560-subarray-sum-equals-k) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/2348-number-of-zero-filled-subarrays) |
 ## Hash Table
 |  |
@@ -68,6 +69,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0219-contains-duplicate-ii) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## String
 |  |
 | ------- |
@@ -91,6 +93,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0118-pascals-triangle](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0119-pascals-triangle-ii) |
 | [0392-is-subsequence](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0392-is-subsequence) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Backtracking
 |  |
 | ------- |
@@ -116,6 +119,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0392-is-subsequence](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0557-reverse-words-in-a-string-iii) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Sorting
 |  |
 | ------- |
@@ -142,6 +146,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0523-continuous-subarray-sum) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/1759-count-number-of-homogenous-substrings) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/2348-number-of-zero-filled-subarrays) |
 ## Trie
 |  |
