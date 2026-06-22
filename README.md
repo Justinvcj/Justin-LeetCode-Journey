@@ -50,6 +50,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0485-max-consecutive-ones](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0560-subarray-sum-equals-k) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/2348-number-of-zero-filled-subarrays) |
