@@ -88,6 +88,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0443-string-compression](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1446-consecutive-characters](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/1446-consecutive-characters) |
+| [1513-number-of-substrings-with-only-1s](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/1796-second-largest-digit-in-a-string) |
@@ -149,6 +150,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0523-continuous-subarray-sum) |
+| [1513-number-of-substrings-with-only-1s](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/1759-count-number-of-homogenous-substrings) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/2348-number-of-zero-filled-subarrays) |
