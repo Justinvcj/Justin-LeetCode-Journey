@@ -52,6 +52,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/2348-number-of-zero-filled-subarrays) |
+| [3101-count-alternating-subarrays](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/3101-count-alternating-subarrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -148,6 +149,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [1759-count-number-of-homogenous-substrings](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/1759-count-number-of-homogenous-substrings) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/2348-number-of-zero-filled-subarrays) |
+| [3101-count-alternating-subarrays](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/3101-count-alternating-subarrays) |
 ## Trie
 |  |
 | ------- |
