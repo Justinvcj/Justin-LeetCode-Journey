@@ -42,6 +42,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0031-next-permutation](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0049-group-anagrams](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0054-spiral-matrix) |
 | [0118-pascals-triangle](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0119-pascals-triangle-ii) |
@@ -61,6 +62,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0290-word-pattern) |
@@ -83,6 +85,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0003-longest-substring-without-repeating-characters](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0151-reverse-words-in-a-string) |
 | [0290-word-pattern](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0290-word-pattern) |
@@ -135,6 +138,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0389-find-the-difference) |
