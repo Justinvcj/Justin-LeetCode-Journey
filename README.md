@@ -70,6 +70,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0387-first-unique-character-in-a-string](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0409-longest-palindrome) |
+| [0451-sort-characters-by-frequency](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0451-sort-characters-by-frequency) |
 | [0523-continuous-subarray-sum](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0560-subarray-sum-equals-k) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/1796-second-largest-digit-in-a-string) |
@@ -95,6 +96,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0392-is-subsequence](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0409-longest-palindrome) |
 | [0443-string-compression](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0443-string-compression) |
+| [0451-sort-characters-by-frequency](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0451-sort-characters-by-frequency) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1446-consecutive-characters](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/1446-consecutive-characters) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/1513-number-of-substrings-with-only-1s) |
@@ -142,6 +144,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0169-majority-element](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0389-find-the-difference) |
+| [0451-sort-characters-by-frequency](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0451-sort-characters-by-frequency) |
 ## Matrix
 |  |
 | ------- |
@@ -181,8 +184,17 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | ------- |
 | [0169-majority-element](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0451-sort-characters-by-frequency) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0389-find-the-difference) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
