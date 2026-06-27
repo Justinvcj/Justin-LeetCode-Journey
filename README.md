@@ -67,6 +67,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0219-contains-duplicate-ii](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0409-longest-palindrome) |
@@ -91,6 +92,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0151-reverse-words-in-a-string](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0151-reverse-words-in-a-string) |
 | [0290-word-pattern](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0392-is-subsequence) |
@@ -183,6 +185,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0451-sort-characters-by-frequency) |
 ## Bit Manipulation
