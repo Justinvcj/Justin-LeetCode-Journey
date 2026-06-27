@@ -64,6 +64,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0349-intersection-of-two-arrays) |
@@ -90,6 +91,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0049-group-anagrams](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0383-ransom-note) |
