@@ -9,8 +9,8 @@ class Solution {
 
         prefix+=num;
 
-       count+= map.getOrDefault(prefix-k,0);
-        map.put(prefix,map.getOrDefault(prefix,0)+1);      
+    count+= map.getOrDefault(prefix-k,0);
+    map.put(prefix,map.getOrDefault(prefix,0)+1);      
     }  
     return count;  
     }
