@@ -47,6 +47,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0118-pascals-triangle](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0119-pascals-triangle-ii) |
 | [0169-majority-element](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0485-max-consecutive-ones) |
@@ -80,6 +81,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0219-contains-duplicate-ii) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## String
@@ -124,6 +126,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0004-median-of-two-sorted-arrays](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
@@ -164,6 +167,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0523-continuous-subarray-sum](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0560-subarray-sum-equals-k) |
 ## Math
