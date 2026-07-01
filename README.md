@@ -53,6 +53,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0485-max-consecutive-ones](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0643-maximum-average-subarray-i) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -83,6 +84,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0003-longest-substring-without-repeating-characters](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0643-maximum-average-subarray-i) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## String
 |  |
