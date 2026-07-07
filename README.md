@@ -55,6 +55,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0560-subarray-sum-equals-k](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0643-maximum-average-subarray-i) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [1528-shuffle-string](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/2348-number-of-zero-filled-subarrays) |
@@ -123,6 +124,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [1446-consecutive-characters](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/1446-consecutive-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/1513-number-of-substrings-with-only-1s) |
+| [1528-shuffle-string](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/1796-second-largest-digit-in-a-string) |
