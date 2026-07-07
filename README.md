@@ -49,6 +49,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0169-majority-element](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0219-contains-duplicate-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0523-continuous-subarray-sum) |
@@ -146,12 +147,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0033-search-in-rotated-sorted-array](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0209-minimum-size-subarray-sum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0240-search-a-2d-matrix-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -176,6 +179,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0054-spiral-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0240-search-a-2d-matrix-ii) |
 ## Simulation
 |  |
 | ------- |
