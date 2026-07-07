@@ -116,6 +116,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | [0451-sort-characters-by-frequency](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0451-sort-characters-by-frequency) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0567-permutation-in-string) |
+| [0796-rotate-string](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0796-rotate-string) |
 | [1446-consecutive-characters](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/1446-consecutive-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/1513-number-of-substrings-with-only-1s) |
@@ -220,4 +221,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0451-sort-characters-by-frequency) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Justinvcj/Justin-LeetCode-Journey/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
